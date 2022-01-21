@@ -1,4 +1,5 @@
 # shop
 
 ## Output
-https://chitraarasu.github.io/Flutter-Shop/assets/output.m4v
+
+<video src='https://chitraarasu.github.io/Flutter-Shop/assets/output.m4v' width=300 height=550/>
