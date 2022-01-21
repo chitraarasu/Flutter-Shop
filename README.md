@@ -2,4 +2,4 @@
 
 ## Output
 
-<video src='https://chitraarasu.github.io/Flutter-Shop/assets/output.m4v' width=300 height=550/>
+<video src='https://chitraarasu.github.io/Flutter-Shop/assets/output.m4v'/>
